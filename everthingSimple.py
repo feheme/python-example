@@ -9,7 +9,7 @@ for i in list:
 
 # print(isPositive)
 
-# any() liste de herhangi biri true ise True. Boşsa ve tümü yanlışsa False döndürür
+# any() liste de herhangi biri True ise True. Boşsa ve tümü yanlışsa False döndürür.
 # all() tüm öğeler True ise veya liste boşsa True döndürür.
 
 list = [-5, -10, -50, -2, 5, -6]
